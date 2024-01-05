@@ -39,6 +39,7 @@ Machine learning model
 
 ```
   https://github.com/NaveenPrakash994/creditcard-fraud-detection/blob/main/logreg_model.pkl
+https://github.com/NaveenPrakash994/Credit-Card-Fraud-Detection-/blob/main/random_forest_model.pkl
 ```
 
 
