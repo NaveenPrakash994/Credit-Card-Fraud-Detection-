@@ -12,10 +12,6 @@ clone repository:
 
 ```
   git clonehttps://github.com/NaveenPrakash994/Credit-Card-Fraud-Detection-/blob/bf793009648952681356a9143268525137ba2d80/Credit%20Card%20Fraud%20Detection%20.ipynb
-cd credit-card-fraud-detection
-#installing dependencies
-pip install -r requirements.txt
-
 
 ```
 
